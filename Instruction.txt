@@ -1,0 +1,6 @@
+npm run build
+npm dev electron
+npm run dev:react
+
+new terminal:
+npm run dev:electron
