@@ -12,6 +12,9 @@ dist
 dist-react
 *.local
 
+# Server temp files
+server/temp/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

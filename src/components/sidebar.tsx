@@ -1,9 +1,8 @@
 export default function Sidebar() {
   return (
     <div className="sidebar">
-      <h2 className="logo">LicenseApp</h2>
-
-      <button className="nav-btn">Home</button>
+      <h2 className="logo">License Plate AI</h2>
+      
     </div>
   );
 }
